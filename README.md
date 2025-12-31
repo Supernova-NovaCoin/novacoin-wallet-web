@@ -80,9 +80,9 @@ src/
 
 ## Related Repositories
 
-- [novacoin](https://github.com/novacoin/novacoin) - Core Blockchain
-- [novacoin-sdk-ts](https://github.com/novacoin/novacoin-sdk-ts) - TypeScript SDK
-- [novacoin-docs](https://github.com/novacoin/novacoin-docs) - Documentation
+- [novacoin](https://github.com/Supernova-NovaCoin/novacoin) - Core Blockchain
+- [novacoin-sdk-ts](https://github.com/Supernova-NovaCoin/novacoin-sdk-ts) - TypeScript SDK
+- [novacoin-docs](https://github.com/Supernova-NovaCoin/novacoin-docs) - Documentation
 
 ## License
 
